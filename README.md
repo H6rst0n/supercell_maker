@@ -12,12 +12,12 @@
 
 ## 安裝
 
-請確保你已經安裝了 Python 及 `pip`。然後，按照以下步驟安裝必要的套件：
+請確保你已經安裝了 Python 及 pip。然後，按照以下步驟安裝必要的套件：
 
-1. 克隆這個倉庫到本地：
+1. clone這個倉庫到本地：
    ```sh
-   git clone https://github.com/你的用戶名/你的倉庫名.git
-   cd 你的倉庫名
+   git clone https://github.com/H6rst0n/supercell_maker.git
+   cd supercell_maker
    ```
 
 2. 安裝所需的 Python 套件：
@@ -50,6 +50,3 @@
 
 如果你有任何建議或改進，歡迎提交 issue 或 pull request。
 
-## 許可
-
-此項目基於 MIT 許可證。詳見 [LICENSE](./LICENSE) 文件。
